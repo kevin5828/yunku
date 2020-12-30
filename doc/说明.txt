@@ -4,7 +4,7 @@
   ËµÃ÷
 	mysql.user=root
 	mysql.password=root123ABC@163.com
-	mysql.url=jdbc:mysql://127.0.0.1:3306/luliujun?useUnicode=true&characterEncoding=UTF8
+	mysql.url=jdbc:mysql://127.0.0.1:3306/db?useUnicode=true&characterEncoding=UTF8
 	mysql.driver=com.mysql.jdbc.Driver
 3.µÇÂ¼µØÖ·
 http://127.0.0.1:8080/yunku/login.jsp
