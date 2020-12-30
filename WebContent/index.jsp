@@ -15,4 +15,6 @@
 	application.setAttribute("rootPath", rootPath);
 	application.setAttribute("basePath", basePath);
 %>
+<%--程序默认的引导文件--%>
+
 <c:redirect url="${applicationScope.basePath}ui/index" />
