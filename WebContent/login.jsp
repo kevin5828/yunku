@@ -166,6 +166,7 @@
 				xmlHttpRequest.send(); //发送Ajax请求
 			}
 		}
+		// 增加一行测试
 	</script>
 </body>
 </html>
